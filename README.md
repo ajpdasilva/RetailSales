@@ -94,4 +94,3 @@ source scripts/db-sql/retail-sales_setup.sql
 
 ### 7. Dashboard Example
 ![dashboard_retail-sales](diagrams/dashboard_retail-sales.png)
-"# RetailSales" 
