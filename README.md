@@ -1,22 +1,22 @@
 # Project: Retail Sales & Customer Data Pipeline
 
 ## Table of Contents
-- [1. Overview](#overview)
-- [2. Structure](#structure)
-- [3. Architecture](#architecture)
-- [4. Database Schema](#database-schema)
-- [5. Installation and Setup](#installation-and-setup)
+- [Overview](#overview)
+- [Structure](#structure)
+- [Architecture](#architecture)
+- [Database Schema](#database-schema)
+- [Installation and Setup](#installation-and-setup)
 - [ETL Workflow](#etl-workflow)
 - [Dashboard Example](#dashboard-example)
 
-### 1. Overview
+### Overview
 
 The Retail Sales ETL Pipeline is an end-to-end beginner project designed to demonstrate practical skills 
 in data ingestion, cleaning, transformation, and loading using sindustry‑standard tools/technologies. 
 The project simulates a retail analytics workflow by processing raw customer & sales data stored in CSV/Excel files, 
 transforming it with Python, and loading the data into MySQL, a relational database.
 
-### 2. Project Structure
+### Project Structure
 ```text
 retailsales/
 │
@@ -36,13 +36,13 @@ retailsales/
 └── docker-compose.yml
 ```
 
-### 3. Architecture
+### Architecture
 ![retail_sales_pipeline_architecture](diagrams/architecture_diagram.png)
 
-### 4. Database Schema
+### Database Schema
 ![retail_sales_db_schema](diagrams/retail_rales_db.jpg)
 
-### 5. Installation and Setup
+### Installation and Setup
 ```text
 Create project structure
 ```
@@ -92,5 +92,5 @@ source scripts/db-sql/retail-sales_setup.sql
 	- Category
 	- Sales
 
-## Dashboard Example
+### Dashboard Example
 ![dashboard_retail-sales](diagrams/dashboard_retail-sales.png)
