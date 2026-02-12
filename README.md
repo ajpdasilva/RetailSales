@@ -6,7 +6,7 @@
 - [3. Architecture](#architecture)
 - [4. Database Schema](#database-schema)
 - [5. Installation and Setup](#installation-and-setup)
-- [6. ETL Workflow](#etl-workflow)
+- [ETL Workflow](#etl-workflow)
 - [Dashboard Example](#dashboard-example)
 
 ### 1. Overview
@@ -70,7 +70,7 @@ Create database tables using SQL
 source scripts/db-sql/retail-sales_setup.sql
 ```
 
-### 6. ETL Workflow
+### ETL Workflow
 
 **Extract**
 - Read CSV file(s)
