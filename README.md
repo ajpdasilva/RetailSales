@@ -7,7 +7,7 @@
 - [4. Database Schema](#database-schema)
 - [5. Installation and Setup](#installation-and-setup)
 - [6. ETL Workflow](#etl-workflow)
-- [7. Dashboard Example](#dashboard-example)
+- [Dashboard Example](#dashboard-example)
 
 ### 1. Overview
 
@@ -92,5 +92,5 @@ source scripts/db-sql/retail-sales_setup.sql
 	- Category
 	- Sales
 
-### 7. Dashboard Example
+## Dashboard Example
 ![dashboard_retail-sales](diagrams/dashboard_retail-sales.png)
