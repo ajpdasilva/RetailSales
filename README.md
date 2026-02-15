@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Structure](#structure)
+- [Project Structure](#Project-structure)
 - [Architecture](#architecture)
 - [Database Schema](#database-schema)
 - [Installation and Setup](#installation-and-setup)
@@ -11,8 +11,8 @@
 
 ### Overview
 
-The Retail Sales ETL Pipeline is an end-to-end beginner project designed to demonstrate practical skills 
-in data ingestion, cleaning, transformation, and loading using sindustry‑standard tools/technologies. 
+The Retail Sales ETL is an end-to-end beginner project designed to demonstrate practical skills 
+in data ingestion, cleaning, transformation, and loading using industry‑standard tools/technologies. 
 The project simulates a retail analytics workflow by processing raw customer & sales data stored in CSV/Excel files, 
 transforming it with Python, and loading the data into MySQL, a relational database.
 
