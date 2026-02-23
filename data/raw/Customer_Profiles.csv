@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,full_name,gender,age,email,signup_date
+195,Edward,THOMPSON,edward thompson,Male,50.0,edward.thompson@gmail.com,2023/05/14
+115,JOSEPH, Brown,joseph brown,M,61.0, joseph.brown@outlook.com, 2021-02-07
+130,anthony,Moope,Anthony Moore,Male,41.0,anthony.moore@yahoo.com,14-Jan-2024
+258,John ,Dasis, John Davis,M,54.0, john.davis@outlook.com , 30/09/2024
+228,Donna ,Wilson,donna wilson,Female,51.0, donna.wilson@outlook.com ,2019-04-17
+215, Linda ,harris,linda harris,Female,,lindaharris@hotmailcom, 2023-06-22
+169,Amanda, Brown , Amanda Brown,Female,73.0,,08/03/2019
+270,robert,Gonzales,Robert Gonzales,,,robert.gonzales@hotmail.com,22/07/2020
+274,William,Rodriguez , William Rodriguez,Male,42.0,william.rodriguez@yahoo.com,2019-02-24
+145, Robert ,TAkLOR,Ronert Taylor,Unknown,43.0,robert.taylor@outlook.com,2024-01-26
+166,ryan, Jones , Ryan Jones ,M,54.0,ryan.jones@hotmail.com ,12/17/2022
+282,eric,Brown,Eric Brown ,Male,34.0,eric.brown@gmail.com,16/10/2024
+265,nicholas,Martinez,nicholas martinez,M,34.0,nicholas.martinez@yahoo.com ,07-Dec-2022
+178,Nancy ,CLARK, Nancy Clark ,female,,nancyclark@outlookcom,07/16/2021
+286,ELIZABETH,lee, Elizabeth Lee ,Unknown,24.0,elizabeth.lee@outlook.com ,20-Jun-2019 
+277,JUSTIN,Sanchez, Justin Sanchez,male,32.0,justin.sanchez@hotmail.com,2018/08/08
+156,Anbhony,SANCHEZ, Anthony Sanchez ,Male,65.0,anthony.sanchez@hotmail.com,2018/06/27
+252,Jeffrey,Brown,JEFFREY BROWN,M,67.0,jeffrey.brownhotmail.com,2024-10-07
+182,Deborah,Gonzales,Debovah Gonzales,female,,,12-Feb-2022
+168, James ,Anberson,james anderson,M,46.0,james.anderson@yahoo.com,2024-09-14
+224, Eric , Anderson,Eric Anderson,,62.0,eric.anderson@outlook.com,16/06/2024
+116,Michael,write,Michael White,male,,michael.whiteyahoo.com,06/13/2018
+248,John ,ROBINSON,John Robinsow,M,64.0, john.robinson@hotmail.com,2023-10-14 
+193,Kimberly,JOHNSON,kimberly jzhnson,,38.0,kimberly.johnson@outlook.com,2023/09/19
+165,Donna ,Williams,Donna Williams,,,donna.williams@yahoo.com, 28/08/2019
+160,Susan , Jackson , Susan Jackson,female,41.0,susan.jackson@yahoo.com, 2024/11/18
+184,Melissa, Thompson ,melissa thompson,female,62.0,melissa.thompson@yahoo.com,04/18/2018
+167,dorothj,williams,Dorothy Williams,female,23.0,dorothy.williams@outlook.com ,30/05/2024
+225, Justin, Brown , Justin Brown,,47.0,justin.brownhotmail.com,08/08/2023
+232,GEORGE,Garcia,George Garcia,M,18.0,george.garcia@outlook.com,30-Aug-2022 
+109,BRIlN,Sanchez,Brian Sanchez,Unknown,21.0,briansanchez@gmailcom,24/02/2020 
+118,STEPHANIE,Ramirez,stephanie ramirez,Female,73.0,,02-Mar-2020
+155,kimberly, Jones, Kimberly Jones ,female,73.0,kimberly.jones@gmail.com,2019-12-16 
+175,Kevin ,Taompson, Kevin Thompson ,male,71.0,kevin.thompson@outlook.com ,2022/09/16 
+250,William ,Mooxe,William Moore,Male,24.0,william.mooreoutlook.com,2019-01-17
+204,shirley,andsrson, Shirley Anderson,Female,28.0,shirley.anderson@gmail.com,2022-12-30
+235,ANNA, Lee ,Anna Lee,female,,anna.lee@hotmail.com,06/03/2024
+237,Rebecca,Taylor,Rebecca Taylor ,Female,,rebecca.taylor@gmail.com,2018/09/17
+264,Sharon ,Thompson , Sharon Thompson,F,21.0,sharon.thompson@outlook.com, 24-Sep-2024 
+176, Laura,MOORE,laura moore,Unknown,,laura.moore@outlook.com,2023/11/25
+179,Timothy,Johnskn, Timothy Johnson ,Unknown,69.0,timothy.johnson@outlook.com,07/31/2023
+297,Anna,Ramirez , Anna Ramirez ,F,66.0,anna.ramirez@yahoo.com,02/11/2018
+138,Paul ,Brown,Paul Brown,male,23.0,paul.brownhotmail.com,2024/06/14
+124, Cynthia, Martin, Cynthia Martin ,female,73.0,cynthia.martin@yahoo.com,09/06/2020
+222,Daniel,lopez,Daniel Lozez,Male,23.0,daniel.lopez@yahoo.com,05/18/2021 
+295,ronald,BROWN,ronald brown,Male,36.0,,09/12/2018
+129,Charles,Jackson ,Charles Jackson ,Male,71.0,,2021/05/20
+119, Anthony ,lee, Anthony Lee,male,29.0,anthony.lee@gmail.com, 2024/10/19
+243,Rebecca,Martinez,RebeccapMartinez,F,,rebecca.martinez@gmail.com,17-May-2024
+186,KIMBERLY,ROBINSON,Kimqerly Robinson,,40.0,kimberly.robinson@hotmail.com,05/28/2019 
+214,Angela, Moore ,Angela Moore ,F,65.0,angela.moore@hotmail.com,2024-01-30
+273,benjamin, Clark,menjamin Clark,male,32.0,benjamin.clark@hotmail.com,06-Feb-2018
+105,Laura, Williams,Laura Williams,,,laura.williams@hotmail.com,01/14/2018
+226,Larry,Wilson, Larry Wilson ,M,73.0,larry.wilson@hotmail.com,24/03/2019
+217, Margaret,Sanchez ,Margaret Sanohez,female,72.0,margaretsanchez@gmailcom , 08/02/2018
+173,Samantha ,Jones, Samantha Jones ,F,72.0,,10/12/2018
+240,Andrew,jones, Andrew Jones,Unknown,73.0,,18/10/2018
+198, George,THOMPSON,George Thompson,male,51.0,george.thompson@gmail.com,2018/01/22 
+272,Sawdra,CLARK,sandra clark,F,50.0,sandra.clark@gmail.com,2023/04/28
+196, Michelle ,Hernandez , Michelle Hernandez,Unknown,57.0,michelle.hernandez@hotmail.com,29/03/2021
+269, Sharon,jones,SHARON JONES,Female,24.0,sharon.jones@hotmail.com, 2023-04-22
+197,Stephen,Moore , Stephen Moore ,Unknown,43.0,stephen.moore@yahoo.com,12/17/2022
+131,daniel,Ramirez,DANIEL RAMIREZ,male,57.0,daniel.ramirez@outlook.com,10/26/2021
+112,kimberly,robinson, Kimberly Robinson ,Unknown,,, 21-Aug-2020
+135,william,Czark,william clark,Unknown,37.0,william.clark@outlook.com,20-Jan-2023
+219, James,Martinez,JAMES MARTINEZ,,42.0,,2018/11/18
+142,ANDREW,CLARK,Andrew Clark,male,50.0,,10/13/2018
+289,Stephanie,Anderson,stephanie anderson,Unknown,, stephanie.andersongmail.com,12/10/2024
+190,DANIEL,Robinson, Daniel Robinson,M,74.0,,2022/05/30
+236,karen, Harris , Karen Harris ,Female,26.0,karen.harris@yahoo.com,05-Jan-2021 
+151,Sarah ,Harris,SARAH HARRIS,Female,41.0,sarah.harris@hotmail.com,22-Jul-2024
+227, Edward , Lee ,Edward Lee ,Male,,edward.lee@yahoo.com,12/08/2023 
+262,melxssa,Rodriguez, Melissa Rodriguez ,Female,49.0,melissa.rodriguez@outlook.com,12/07/2020
+141,paul, Lewis,Paul Lewis ,male,37.0,paul.lewis@gmail.com,23-Sep-2019
+218,nicole, Ramirez ,nicole ramirez,female,5.0, nicole.ramirez@hotmail.com,2021-07-12
+213,Lisa,Brown, Lisa Brown ,Unknown,5.0,lisa.brown@gmail.com,17/09/2019
+126,Sandra, Smith ,Sandra Smith,,52.0, sandra.smith@outlook.com,15/07/2022
+239,Donald,Thompion,DONALD THOMPSON,,,donaldthompson@yahoocom,2022-10-25 
+200,david,Smith,David Smith,male,52.0,david.smith@yahoo.com,28-Oct-2019
+211,Stelen,davis,Steven Davis,M,21.0,steven.davis@gmail.com,08/04/2024
+102, Michael,Moore,Michael Moore,,20.0,michael.moore@gmail.com,03/02/2022
+177,Steven,Ramirez,StevenlRamirez,Male,64.0,, 07/11/2024
+146,william,White ,william white,male,62.0,,2021-08-21
+287,Jessicv, Johnson,jessica johnson,,54.0,jessica.johnson@hotmail.com,15-Oct-2020
+291,george,Taylor,George Taylor,male,64.0,george.taylor@yahoo.com, 02/20/2020
+185,Jacob ,Lewis,jacob wewis,M,22.0,jacob.lewis@gmail.com, 2024/03/08
+261, Deborah ,JOHNSON,DEBORAH JOHNSON,,49.0,deborah.johnson@yahoo.com, 07-Oct-2021
+136, Jacob ,JACKSON,Jacob Jacksdn,,,jacob.jackson@gmail.com,14/05/2018
+290,Jonathan, Lopez,Jonothan Lopez,Unknown,41.0,,2020-06-27
+161,Michael,Gsrcia,Michael Garcia,male,22.0,michaelgarcia@gmailcom,10/07/2019
+122,Matthew ,Pvrez,matthew perez,Unknown,69.0,,29-Sep-2020
+241,SUSAN, Hernandez ,Susan Hernandez,Female,61.0,susan.hernandez@gmail.com,13-Sep-2019
+201,Benjamin ,HERNANDEZ, Benjamin Hernandez ,Male,43.0,benjamin.hernandezgmail.com,2020-10-13
+133,Laura ,White, Laura White,female,30.0,laura.white@yahoo.com,2023/11/19 
+111,Michael, Gonzales ,michael gonzales,Male,64.0,michael.gonzales@outlook.com,2024-01-30 
+294,Jonathan ,LOPEZ,Jonathan Lopez ,male,38.0,jonathan.lopez@outlook.com,12/27/2023
+259,Anna , Miller , Anna Miller ,female,19.0,anna.miller@yahoo.com,11-Mar-2022
+106,MICHELLE, Clark ,Michelle Clark ,Female,51.0,michelleclark@outlookcom, 13/06/2021
+127,donald,JACKSON, Donald Jackson,Male,34.0,donald.jackson@hotmail.com,09/23/2022
+220, Laura,Davis,Laura Davys,Female,58.0,laura.davis@outlook.com, 27-Jul-2024
+104,Ashley ,Lee,Ashley Lee,female,52.0,ashley.lee@outlook.com, 2018-07-12 
+132,george,Smith, George Smith,male,62.0,george.smithoutlook.com,2021/06/08
+242,barbara,Lewis,barbara lewis,F,68.0,barbara.lewis@gmail.com,04/20/2018
+245, Jason ,Hernandez ,Jason Hernandez,M,45.0,jason.hernandez@gmail.com,08/14/2018
+209,Nicole,MARTIN, Nicole Martin ,female,44.0,,20/08/2024
+244,andrew, Smith ,Andrew Smith,Unknown,63.0,andrewsmith@outlookcom,2021-06-23
+110,thomas, Anderson ,THOMAS ANDERSON,M,,thomas.anderson@gmail.com,13-Jun-2023
+162,linda,Jones,LINDA JONES,Female,56.0,linda.jones@gmail.com, 11/29/2023
+212,MICHELLE,robinson,michelle robinson,female,33.0,michelle.robinson@outlook.com,12/26/2023
+246,mark,Smith,Mark Smith ,M,64.0,mark.smith@hotmail.com,10/25/2022
+266,andrew, Harris ,Andrew Harris ,Male,55.0,,2022/05/05
+100,PATRICIA,White ,Patricia White,Female,55.0,,14/06/2020 
+298,Stephanie, Johnson,Stephanie Johnson,Female,,stephaniejohnson@yahoocom,11/26/2024
+253,Daniel,Thompson ,DANIEL THOMPSON,M,120.0,danielthompson@yahoocom, 10/09/2018
+170,Joseph,Martin ,Joseph Martin ,,60.0,joseph.martin@gmail.com,09/01/2020
+223,george,WILSON,George Wilson,,57.0,,2021-06-01
+164, David,Anderson,david anderson,,25.0,david.anderson@yahoo.com,27-Dec-2018
+144, Daniel ,White ,Daniel White,Male,27.0,,2023/08/20 
+263,chmistopher,SMITH,Christopher Smith,Male,75.0,christopher.smith@outlook.com, 14/11/2022
+128,Agthony,Dhvis,Anthony Dabis,Male,60.0,anthony.davis@outlook.com,15/04/2019 
+140,amanda,Johnson,Amanka Johnson,,18.0,amandajohnson@outlookcom,2022-12-16
+208,richard,Miller ,richard miller,Male,,richard.miller@outlook.com,2019/07/28
+255,Anthony,miller,ANTHONY MILLER,M,59.0,anthonymiller@outlookcom,24/11/2023
+256, Steven,Sanchez,Steven Sanchez ,Male,42.0,, 11/09/2024
+125,margaret,HERNANDEZ,Margaret Hernandez,F,31.0,margaret.hernandez@outlook.com,2024-07-20
+123,Elizabeth ,Lewis,Elizabeth Lewis ,Unknown,5.0,elizabeth.lewis@yahoo.com ,2020-10-17
+284,nicole,perez,Nicole Perez,Female,34.0,nicole.perezhotmail.com,04/05/2021
+247,Angela,ANDERSON, Angela Anderson,Female,24.0, angela.anderson@gmail.com,2020-09-28
+181,george,Lee, George Lee ,,61.0,, 24-Oct-2024 
+139,Edward,Johnson, Edward Johnson ,male,55.0,edward.johnson@gmail.com,10/21/2019
+268, Donald,Clark ,Donald Clark ,,,donald.clark@outlook.com,2018/02/20
+147, Richard ,TAYtOR,Richard Taylor,M,49.0,,03/04/2023
+194,David, Lopez ,David Lopez,Unknown,120.0,david.lopez@yahoo.com, 13-Dec-2024
+254,garbara,Jackson , Barbara Jackson,female,75.0,barbarajackson@gmailcom, 06-Jun-2022
+143, Dorothy,Rodriguez,Dorothy Rsdriguez,female,48.0,dorothy.rodriguez@outlook.com,31-May-2024
+238,Angela,RODRIGUEZ,Angela Rodriguez,F,39.0,angelarodriguez@gmailcom,10-Oct-2019
+103, Stephen, Robinson,Stephen Robinson ,male,42.0,stephen.robinson@yahoo.com,05/12/2018 
+205, Deborah ,johnson, Deborah Johnson,Unknown,65.0,,10/02/2022
+153,Steven , Anderson,Steven Anderson,M,27.0,steven.anderson@outlook.com,08-Jun-2020
+233,Scott,Davis,Scort Davis,Male,49.0,,04/13/2019
+280,PATRICIA,Perez,patricia perez,F,50.0,patricia.perez@gmail.com,15-Oct-2021
+278,Steven,Teylor,steven taylor,Unknown,39.0,steven.taylor@outlook.com ,24/09/2021 
+285,susan,Ramirez , Susan Ramirez ,Female,75.0,susan.ramirez@gmail.com,02/13/2023
+149,Eric , Gonzales,Eric Gonzayes,Male,75.0,eric.gonzales@hotmail.com,2019-07-15
+180, Laura ,Williams,Laura Williams,Female,,laura.williams@hotmail.com,2023-01-06
+134,donna,DAVIS,Donna Davis,F,53.0,donna.davisoutlook.com,27/10/2021
+107, Barbara ,WHITE,Barbara White,Female,53.0,barbara.white@outlook.com,30-Jun-2021
+210, Anthony ,Lopez ,Anthony Lopez ,Unknown,42.0,anthony.lopez@yahoo.com,2018/08/25
+191, Linda ,Johnson,Linda Johnson,female,,,07/03/2019
+183,Patricia,white,PATRICIA WHITE,Female,46.0, patricia.white@outlook.com,2022-12-29
+276,Gary,Thomas,Gary Thomas,Male,39.0,gary.thomas@outlook.com,05/04/2024
+281, Angela ,LOPEZ, Angela Lopez ,female,31.0,angela.lopez@yahoo.com,2020/11/13
+189, Melissa,Gonzales,MELISSA GONZALES,female,46.0,,03-Apr-2021
+108,margaret, Anderson,margaret anderson,Unknown,18.0,margaretanderson@yahoocom,14-Feb-2021 
+113,Pamela, Martin,pamela martin,F,31.0,pamela.martin@hotmail.com,2018-10-25
+159,cetty,Lozez,BETTY LOPEZ,female,21.0,betty.lopez@hotmail.com,2022-09-29
+271,margaret,WHITE,Margaret White,female,49.0,margaret.white@gmail.com,2019/07/10 
+231, Jonathan,Thompson , Jonathan Thompson ,M,37.0,jonathan.thompson@yahoo.com,31-Jan-2020
+117,Melissa,Harris , Melissa Harris,Female,73.0,melissa.harrisyahoo.com,14/08/2022
+172, Cynthia , Martin,Cynthia Martin,F,68.0,cynthia.martin@hotmail.com,2022/04/14
+275,Brenda,Lee, Brenda Lee,female,58.0,brenda.lee@hotmail.com ,23-Sep-2024
+234,EMMA,clark,Emma Clrrk,female,33.0, emma.clark@outlook.com,26/04/2019
+267,stephanie, Lewis ,STEPHANIE LEWIS,Unknown,75.0,stephanie.lewis@yahoo.com, 17/05/2020
+283,DONNA, Brown , Donna Brown ,Female,30.0,donnabrown@yahoocom, 16/09/2021
+163, John ,Miller,John Miller,Male,49.0,john.miller@outlook.com,2021-12-21
+154,Susan ,Perez,Susan Perez,female,72.0,,2020/05/18 
+207,JASON,Gonzoles, Jason Gonzales,M,52.0,jason.gonzales@yahoo.com,2019-04-08
+150,PAkL,Johnson , Paul Johnson,male,68.0,paul.johnson@hotmail.com,04/23/2021
+296,Cynthia ,BROWN, Cynthia Brown,female,33.0,cynthia.brownhotmail.com, 2021/07/04
+158, Stephanie,martin, Stephanie Martin,female,59.0,stephanie.martin@yahoo.com,22-Jun-2022
+148,Edward, Perez, Edward Perez,Unknown,62.0,edward.perez@yahoo.com,2022/01/10
+188,Kathleen ,Lee ,kathleen lee,,69.0,kathleenlee@outlookcom,04/15/2020
+121,REBECCA,Thompson,Rebecca Thompson,female,57.0,rebecca.thompson@gmail.com,12-Aug-2021
+157,James ,Thomas , James Thomas ,Male,,, 27/10/2024
+260, Karen ,Garcia,Karen Garcia ,female,53.0,karen.garcia@hotmail.com, 21/04/2021 
+292, Cynthia,rnderson,Cynthia Anderson ,Female,71.0,cynthia.anderson@yahoo.com,2024/09/25
+229,BENJAMIN,Davis, Benjamin Davis,M,43.0,benjamin.davis@outlook.com, 26-Oct-2022
+137, Andrew , Perez,ANDREW PEREZ,Unknown,45.0, andrew.perez@yahoo.com,2021/06/13
+257, James ,SANCHEZ,James Sanchez,male,60.0,james.sanchez@gmail.com,05/10/2022
+293,Elizabeth,Martin,Elizabeth Martin ,,26.0,elizabeth.martin@hotmail.com,17/03/2024
+101,Emma,wilson,EMMA WILSON,F,45.0,emma.wilson@hotmail.com,2020-12-19
+152, Emily, Thomas,emily thomas,Female,, emily.thomas@hotmail.com , 2023-07-11
+249,edward,harris, Edward Harris ,Unknown,68.0,edward.harris@outlook.com, 17/02/2024
+230, Scott, Thompson , Scott Thompson ,male,30.0,scott.thompson@outlook.com,2024-08-01
+251,BENJAMIN,nnderson,Benqamin Anderson,,26.0,benjamin.anderson@hotmail.com,01/29/2023
+203,Stephen,BROWN,Stephen Brown ,male,27.0,stephen.brown@hotmail.com,13/06/2020
+199,Sandra,Lee ,SANDRA LEE,Unknown,59.0,sandra.lee@gmail.com,29-May-2018 
+216,Michaew,Taylor ,Michael Taylor ,Male,29.0,, 02/09/2019
+187, Jeffrey, Jackson,JEFFREY JACKSON,M,20.0,,2018/07/06
+174,Joshua,Willihms,JOSHUA WILLIAMS,M,23.0,,02/10/2019 
+221,Elizabeth ,WILLIAMS,Elizabeth Williams,F,24.0,elizabeth.williams@outlook.com,2023/01/13
+299,ELIZABETH,Sancfez,Elizabeth Sanchez ,female,52.0,elizabeth.sanchez@yahoo.com,2024/12/07
+120, Betty, Johnson,Betty Johnson ,F,65.0,betty.johnson@gmail.com,05/26/2019
+288,Charlfs, Clark, Charles Clark ,,73.0, charles.clark@hotmail.com,31-Mar-2022 
+171, Emily ,Jones ,EqILY JONES,F,,emily.jones@yahoo.com, 10-Nov-2019
+206, Robert ,Robinson ,RobertfRobinson,Male,44.0,robert.robinson@outlook.com,18/01/2024
+114,ELIZABETH,moore,ELIZABETH MOORE,Female,28.0,elizabeth.moore@hotmail.com ,03/21/2024 
+192,JENNIFER,Gonzaley,jennifer gonzales,female,70.0,jennifer.gonzalesgmail.com,04/03/2024 
+279, George,Miller, George Miller ,Unknown,26.0, george.miller@outlook.com,2022-03-09
+202,matthew,Martinez, Matthew Martinez,male,,,10/06/2021
